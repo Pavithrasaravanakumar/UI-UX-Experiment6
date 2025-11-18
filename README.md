@@ -50,38 +50,68 @@ He receives a confirmation message instantly. Rahul feels relieved and returns t
 feeling confident he managed his schedule well.
 ## 4. Task Flow Diagram (Task: Ordering food via an app.)
 <img width="635" height="1108" alt="ui ux 6e drawio" src="https://github.com/user-attachments/assets/4247a307-2522-46c0-a3c2-742159a84640" />
+
 ## 5. Information Architecture (IA)
-Example chosen: University Website
+ Example chosen: University Website
 Method: Open Card Sorting
+
 Categories Formed After Sorting
-1. About
-o History
-o Vision & Mission
-o Leadership
-o Campus Tour
-2. Academics
-o Undergraduate Programs
-o Postgraduate Programs
-o Departments
-o Academic Calendar
-3. Admissions
-o Apply Now
-o Eligibility
-o Fee Structure
-o Scholarships
-4. Campus Life
-o Hostels
-o Clubs
-o Sports
-o Events
-5. Research
-o Centers
-o Publications
-o Projects
-6. Contact
-o Email
-o Phone
-o Location Map
+
+About
+
+History
+
+Vision & Mission
+
+Leadership
+
+Campus Tour
+
+Academics
+
+Undergraduate Programs
+
+Postgraduate Programs
+
+Departments
+
+Academic Calendar
+
+Admissions
+
+Apply Now
+
+Eligibility
+
+Fee Structure
+
+Scholarships
+
+Campus Life
+
+Hostels
+
+Clubs
+
+Sports
+
+Events
+
+Research
+
+Centers
+
+Publications
+
+Projects
+
+Contact
+
+Email
+
+Phone
+
+Location Map
 
 ## Output:
 <img width="1024" height="1024" alt="Gemini_Generated_Image_ogjj64ogjj64ogjj" src="https://github.com/user-attachments/assets/accfa3f9-2abd-4c5f-95ac-51388730f41f" />
