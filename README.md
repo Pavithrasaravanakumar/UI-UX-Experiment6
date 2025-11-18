@@ -48,8 +48,7 @@ available time slots in green. Rahul quickly checks for evening slots, finds one
 and taps “Book.”
 He receives a confirmation message instantly. Rahul feels relieved and returns to his desk
 feeling confident he managed his schedule well.
-## 4. Task Flow Diagram
-Task: Ordering food via an app.
+## 4. Task Flow Diagram (Task: Ordering food via an app.)
 <img width="635" height="1108" alt="ui ux 6e drawio" src="https://github.com/user-attachments/assets/4247a307-2522-46c0-a3c2-742159a84640" />
 ## 5. Information Architecture (IA)
 Example chosen: University Website
@@ -85,7 +84,6 @@ o Phone
 o Location Map
 
 ## Output:
-<img width="4174" height="264" alt="ui ux 6ex drawio" src="https://github.com/user-attachments/assets/7770dc11-e610-46de-a464-0808eb80ecd0" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_ogjj64ogjj64ogjj" src="https://github.com/user-attachments/assets/accfa3f9-2abd-4c5f-95ac-51388730f41f" />
 
-## Result:
 The experiment demonstrated a clear understanding of ideation, flow mapping, and information architecture in UI/UX.
